@@ -1,0 +1,2 @@
+# Referenced at /home/mahrus/ReactNative/LoopMerchant/android/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:43
+-keep class com.socero.loopmerchant.MainApplication { <init>(...); }
