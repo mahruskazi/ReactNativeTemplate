@@ -4,17 +4,7 @@
             "outputFile": "/home/mahrus/ReactNative/LoopMerchant/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/home/mahrus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/65b531ffc7fbea490e096dbdbb65019f/res/values-v24/values-v24.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,212",
-                        "endColumns": "156,134",
-                        "endOffsets": "207,342"
-                    }
-                },
-                {
-                    "source": "/home/mahrus/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/4ae4b028138bb3998552f368e45985e9/res/values-v24/values-v24.xml",
+                    "source": "/home/mahrus/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/981e1406eda9e6c669553c5bdf07c850/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -28,6 +18,16 @@
                         "startOffsets": "347,413,474,540",
                         "endColumns": "65,60,65,66",
                         "endOffsets": "408,469,535,602"
+                    }
+                },
+                {
+                    "source": "/home/mahrus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5a04da996300df8389cc14c6ca48d0bb/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
                     }
                 }
             ]
